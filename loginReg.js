@@ -1,4 +1,4 @@
-const backendURL = "http://34.170.152.252:3000";
+const backendURL = "https://34.170.152.252:3000";
 
 document.getElementById("authForm").addEventListener("submit", async function (e) {
     e.preventDefault();
