@@ -1,6 +1,6 @@
 const form = document.querySelector("form");
 const red_green_btn = document.querySelector("#tambah_btn");
-const backendURL = "http://34.170.152.252:3000";
+const backendURL = "https://34.170.152.252:3000";
 
 const token = localStorage.getItem("token");
 
